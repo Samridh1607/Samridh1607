@@ -43,6 +43,32 @@
 
 <hr>
 
+<h2>📌 Featured Projects and Resources</h2>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40"></td>
+    <td><b>Project Portfolio:</b></td>
+    <td><a href="https://jovian.ai/yash-kavaiya">View on Jovian</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" width="40"></td>
+    <td><b>Technical Writing:</b></td>
+    <td><a href="https://medium.com/@yash.kavaiya3">Medium Blog</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"></td>
+    <td><b>GenAI Community:</b></td>
+    <td><a href="https://discord.gg/cvHXS4b5">Join Discord</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40"></td>
+    <td><b>AI Learning Resources:</b></td>
+    <td><a href="https://linktr.ee/yashkavaiya">Linktree</a></td>
+  </tr>
+</table>
+
+<hr>
+
 <h2>📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samridh1607&show_icons=true&theme=radical" />
