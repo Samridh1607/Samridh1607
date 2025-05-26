@@ -1,7 +1,7 @@
 <!-- GitHub Profile Landing Page (README.md HTML Format) -->
 
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">AI Engineer | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
+<h1 align="center">👋 Hi, I'm [Samridh Khaneja]</h1>
+<h3 align="center">AI&ML Engineer | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,16 +34,16 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samridh1607&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samridh1607&theme=radical" />
 </p>
 
 <hr>
 
 <h2>📬 Let's Connect</h2>
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:khanejasamridh@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
