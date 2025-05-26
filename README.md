@@ -81,7 +81,7 @@
   <a href="https://x.com/samyy1607?t=itcFGwX1nx8J5eHBEHSAeQ&s=09"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=X" /></a>
   <!-- <a href="https://www.researchgate.net/profile/Samridh-Khaneja"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 </p>
----
+
 <p align="center">
   <i>"On a mission to build AI solutions that make knowledge accessible and decisions smarter."</i>
 </p>
