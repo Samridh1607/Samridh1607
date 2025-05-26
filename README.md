@@ -1,6 +1,6 @@
 <!-- GitHub Profile Landing Page (README.md HTML Format) -->
 
-<h1 align="center">👋 Hi, I'm [Samridh Khaneja]</h1>
+<h1 align="center">👋 Hi, I'm Samridh Khaneja</h1>
 <h3 align="center">AI&ML Engineer | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
 
 <p align="center">
