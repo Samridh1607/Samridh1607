@@ -1,7 +1,7 @@
 <!-- GitHub Profile Landing Page (README.md HTML Format) -->
 
 <h1 align="center">👋 Hi, I'm Samridh Khaneja</h1>
-<h3 align="center">AI&ML Engineer | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
+<h3 align="center">AI&ML Engineer | NLP specialist | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
