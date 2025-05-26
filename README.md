@@ -53,7 +53,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"></td>
     <td><b>GenAI Community:</b></td>
-    <td><a href="https://discord.gg/cvHXS4b5">Join Discord</a></td>
+    <td><a href="add my link here">Join Discord</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40"></td>
