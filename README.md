@@ -57,4 +57,5 @@
   <a href="https://www.linkedin.com/in/samridh-khaneja/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://x.com/samyy1607?t=itcFGwX1nx8J5eHBEHSAeQ&s=09"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io&style=for-the-badge&logo=X" /></a>
+  <!-- <a href="https://www.researchgate.net/profile/Samridh-Khaneja"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
 </p>
