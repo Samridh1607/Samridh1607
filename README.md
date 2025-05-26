@@ -53,7 +53,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" width="40"></td>
     <td><b>Technical Writing:</b></td>
-    <td><a href="https://medium.com/@yash.kavaiya3">Medium Blog</a></td>
+    <td><a href="add my link here">Medium Blog</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"></td>
@@ -63,7 +63,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40"></td>
     <td><b>AI Learning Resources:</b></td>
-    <td><a href="https://linktr.ee/yashkavaiya">Linktree</a></td>
+    <td><a href="add my link here">YouTube channel</a></td>
   </tr>
 </table>
 
