@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%96%A5%EF%B8%8F-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-%F0%9F%A7%91%E2%80%8D%F0%9F%94%AC-blue?style=for-the-badge" />
 </p>
 
