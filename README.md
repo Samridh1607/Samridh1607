@@ -15,7 +15,7 @@
 <p>
   I'm an AI engineer passionate about solving real-world problems using machine learning, LLMs, and cloud-based technologies. 
   I hold an <strong>Integrated Master's degree in Applied Mathematics</strong> from the <strong>National Institute of Technology (NIT), Surat</strong>. 
-  My academic background gives me a strong foundation in analytical thinking, numerical modeling, and algorithm design — all of which I leverage in AI-driven application development.
+  My academic background gives me a strong foundation in analytical thinking, statistical reasoning, and algorithm design — all of which I leverage in AI-driven application development.
 </p>
 
 
@@ -55,5 +55,5 @@
 <p align="left">
   <a href="mailto:khanejasamridh@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  #<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
