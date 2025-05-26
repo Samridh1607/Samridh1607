@@ -11,6 +11,16 @@
 
 <hr>
 
+<h2>👨‍🎓 About Me</h2>
+<p>
+  I'm an AI engineer passionate about solving real-world problems using machine learning, LLMs, and cloud-based technologies. 
+  I hold an <strong>Integrated Master's degree in Applied Mathematics</strong> from the <strong>National Institute of Technology (NIT), Surat</strong>. 
+  My academic background gives me a strong foundation in analytical thinking, numerical modeling, and algorithm design — all of which I leverage in AI-driven application development.
+</p>
+
+
+<hr>
+
 <h2>🔧 What I Do</h2>
 <ul>
   <li>🚀 Build intelligent applications using <strong>LLMs</strong> and <strong>retrieval-augmented generation (RAG)</strong>.</li>
