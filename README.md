@@ -47,11 +47,6 @@
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40"></td>
-    <td><b>Project Portfolio:</b></td>
-    <td><a href="https://jovian.ai/yash-kavaiya">View on Jovian</a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" width="40"></td>
     <td><b>Technical Writing:</b></td>
     <td><a href="add my link here">Medium Blog</a></td>
   </tr>
