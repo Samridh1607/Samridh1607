@@ -58,7 +58,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="40"></td>
     <td><b>AI Learning Resources:</b></td>
-    <td><a href="add my link here">YouTube channel</a></td>
+    <td><a href="https://youtube.com/@samridhkhaneja5244?si=Y6P8c3csjylE_F_p">YouTube channel</a></td>
   </tr>
 </table>
 
