@@ -24,7 +24,7 @@
 
 <h2>🔧 What I Do</h2>
 <ul>
-  <li> Build agentic applications for novel problems. </li>
+  <li>🤖 Build agentic applications for novel problems. </li>
   <li>🚀 Build intelligent applications using <strong>LLMs</strong> and <strong>retrieval-augmented generation (RAG)</strong>.</li>
   <li>⚙️ Develop scalable solutions in <strong>Python</strong>, focusing on <strong>text analytics</strong>, <strong>document processing</strong>, and <strong>metadata extraction</strong>.</li>
   <li>☁️ Deploy applications on <strong>Azure</strong> using <code>Function Apps</code>, <code>Blob Storage</code>, <code>OpenAI API</code>, and <code>Terraform</code>.</li>
@@ -37,7 +37,7 @@
 <ul>
   <li><strong>Languages:</strong> Python, SQL, R</li>
   <li><strong>Cloud:</strong> Microsoft Azure (OpenAI, Blob, Cognitive Search, Function App)/AWS (S3, Elastic search, Lambda)/ GCP(BigQuery)</li>
-  <li><strong>LLM Tools:</strong> OpenAI GPT, LangChain, Cohere, Prompt Engineering</li>
+  <li><strong>LLM Tools:</strong> OpenAI GPT, LangChain, LangGraph, Prompt Engineering</li>
   <li><strong>Databases:</strong> Redis, Azure Cosmos DB, Azure Search</li>
   <li><strong>DevOps:</strong> GitHub Actions, Azure DevOps, Terraform</li>
 </ul>
