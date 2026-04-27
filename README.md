@@ -1,12 +1,12 @@
 <!-- GitHub Profile Landing Page (README.md HTML Format) -->
 
 <h1 align="center">👋 Hi, I'm Samridh Khaneja</h1>
-<h3 align="center">AI&ML Engineer | NLP Specialist | Python Developer | LLM Enthusiast | Azure Practitioner</h3>
+<h3 align="center">AI&ML Engineer | NLP Specialist | Python Developer | LLM Enthusiast | Azure Practitioner | Agentic AI developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%F0%9F%96%A5%EF%B8%8F-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%96%A5%EF%B8%8F-blue?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/LLMs-%F0%9F%A7%91%E2%80%8D%F0%9F%94%AC-blue?style=for-the-badge" />
 </p>
 
@@ -24,6 +24,7 @@
 
 <h2>🔧 What I Do</h2>
 <ul>
+  <li> Build agentic applications for novel problems. </li>
   <li>🚀 Build intelligent applications using <strong>LLMs</strong> and <strong>retrieval-augmented generation (RAG)</strong>.</li>
   <li>⚙️ Develop scalable solutions in <strong>Python</strong>, focusing on <strong>text analytics</strong>, <strong>document processing</strong>, and <strong>metadata extraction</strong>.</li>
   <li>☁️ Deploy applications on <strong>Azure</strong> using <code>Function Apps</code>, <code>Blob Storage</code>, <code>OpenAI API</code>, and <code>Terraform</code>.</li>
