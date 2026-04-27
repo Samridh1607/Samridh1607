@@ -36,7 +36,7 @@
 <h2>🛠 Tech Stack</h2>
 <ul>
   <li><strong>Languages:</strong> Python, SQL, R</li>
-  <li><strong>Cloud:</strong> Microsoft Azure (OpenAI, Blob, Cognitive Search, Function App)/AWS (S3, Elastic search, Lambda)/ GCP(BigQuery)</li>
+  <li><strong>Cloud:</strong> Microsoft Azure (OpenAI, Blob, Cognitive Search, Function App, AI Foundry)/AWS (S3, Elastic search, Lambda)/ GCP(BigQuery)</li>
   <li><strong>LLM Tools:</strong> OpenAI GPT, LangChain, LangGraph, Prompt Engineering</li>
   <li><strong>Databases:</strong> Redis, Azure Cosmos DB, Azure Search</li>
   <li><strong>DevOps:</strong> GitHub Actions, Azure DevOps, Terraform</li>
